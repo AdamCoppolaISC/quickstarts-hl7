@@ -28,5 +28,5 @@ To Run on Mac:
 ```
 
 open bugs:   
-	-remove password expire from final container  
+	-remove login expire from final container  
 	-create role/user that's not SuperUser  
