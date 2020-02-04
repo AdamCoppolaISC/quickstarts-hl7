@@ -28,5 +28,5 @@ To Run on Mac:
 ```
 
 open bugs:   
-	-remove rabbit expire from final container  
+	-remove password expire from final container  
 	-create role/user that's not SuperUser  
